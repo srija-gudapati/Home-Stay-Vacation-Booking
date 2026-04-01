@@ -44,12 +44,17 @@ Airbnb-inspired full-stack web application for browsing, filtering, and booking 
 
 ## 📸 Screenshots
 
-*Add screenshots here (recommended):*
+<img width="1039" height="624" alt="image" src="https://github.com/user-attachments/assets/9903b705-2220-4334-8efe-241cd420a6b0" />
 
-* Homepage
-* Search & Filter page
-* Booking flow
-* Dashboard
+<img width="1038" height="601" alt="image" src="https://github.com/user-attachments/assets/d7d1c564-6545-4ad3-8091-1b9af760d0c8" />
+
+<img width="1029" height="512" alt="image" src="https://github.com/user-attachments/assets/bd009449-46e7-4735-9abe-7ef935b84b8a" />
+
+<img width="1857" height="886" alt="image" src="https://github.com/user-attachments/assets/367fc0ce-e721-46b0-b654-42e9853c3354" />
+
+<img width="1485" height="886" alt="image" src="https://github.com/user-attachments/assets/b2d89198-ec74-4ec8-b96c-90794bacbbc7" />
+
+<img width="1038" height="631" alt="image" src="https://github.com/user-attachments/assets/2322d739-646f-40e2-a5ea-b43f9abdeb77" />
 
 ---
 
