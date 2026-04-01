@@ -2,7 +2,6 @@
 Airbnb-inspired full-stack web application for browsing, filtering, and booking homestays with secure authentication and responsive UI.
 
 Frontend-Live-Demo: https://hotel-mern-booking.vercel.app/
-Backend-Live-Demo: https://hotel-booking-backend.arnobmahmud.com
 
 
 # 🎯 Project Overview
